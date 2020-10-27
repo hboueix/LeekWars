@@ -23,4 +23,3 @@ class Client:
 
     def run(self):
         Menu(self).intro()
-        # print(self.farmer.get_leek_names())
