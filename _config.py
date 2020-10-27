@@ -4,6 +4,6 @@ PASSWORD 	-> 		string: your leekwars account password
 """
 
 Config = {
-    'USER': 'my-username',
+    'LOGIN': 'my-username',
     'PASSWORD': 'my-password!'
 }
